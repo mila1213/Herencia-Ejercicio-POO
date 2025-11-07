@@ -1,5 +1,5 @@
 package EjercicioClase;
-
+//public  final class Persona- error ya que la poner final no permite heredar
 public  class Persona { //final para que no sea heredada
     String cedula;
     String nombre;
